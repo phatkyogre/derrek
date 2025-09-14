@@ -7,7 +7,8 @@ super cool chatbot that uses gemini
   
   to activate it: .venv\Scripts\activate
 
-***step 2*8*: install dependencies:
+
+***step 2***: install dependencies:
   
   pip install -r requirements.txt
 
@@ -15,9 +16,11 @@ super cool chatbot that uses gemini
   
   change "GEMINI_API_KEY=your_api_key_here" to have your actual api key. you can get this at: https://aistudio.google.com/apikey
 
+
 ***step 4***: run the program.
   
   python derrek_bot.py
+
 
 ***OPTIONAL step 5***: build an exe
   
@@ -27,6 +30,7 @@ super cool chatbot that uses gemini
 
   
   ***THIS MIGHT NOT WORK.***
+
 
 ***hard coded commands***:
 
@@ -39,6 +43,7 @@ bye: closes the bot
 my name is <name> : teaches derrek your name. he will remember this.
 
 what's my name: derrek will say your name if he knows it.
+
 
 
 have fun!!!
